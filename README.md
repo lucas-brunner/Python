@@ -1,6 +1,6 @@
 # Python
 
-This is a repo to showcase some of my Python projects. Some programs are written for personal use (such as TempMonitor.py) while others are simply for practice and gaining experience.
+This is a repo to showcase some of my Python projects. Some programs are written for personal use (such as TempMonitor.py) while others are simply for practice and gaining experience. This will be continuously updated with new projects.
 
 ### TempMonitor.py
 
